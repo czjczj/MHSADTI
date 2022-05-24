@@ -1,4 +1,4 @@
-## IIFDTI
+## MHSADTI
 an end-to-end deep learning-based method named MHSADTI is developed to predict DTIs using multi-head self-attention and graph attention network.
 
 ## Requirements
